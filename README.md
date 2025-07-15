@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Matheus Alves
+# 🧑🏻‍💻 Matheus Alves
 
 **`Desenvolvedor Flutter`**
 
@@ -80,7 +80,7 @@ Me chamo Matheus Alves de Rezende, tenho 28 anos e sou natural de Goiânia. Sou 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=matheus-rezende&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Matheus-Rezende&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
